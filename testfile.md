@@ -2,10 +2,10 @@
 
 ## Readme Portion
 
-- Name(s): `[Your Name]`, `[Partner Name]`
+- Name: `Emmanuel Giron`
 - Bomb number: `31`
 - Collaboration/help: `[Acknowledge help, collaboration, office hours, AI use, etc.]`
-- Approximate hours spent: `[fill in]`
+- Approximate hours spent: `8`
 
 ## Phases Portion
 
