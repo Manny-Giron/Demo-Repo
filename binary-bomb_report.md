@@ -1,4 +1,4 @@
-# CSC411 Bomb 31 Draft
+# CSC411 Bomb 31
 
 ## Readme Portion
 
